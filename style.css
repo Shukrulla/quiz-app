@@ -68,3 +68,10 @@ button:focus {
     background-color: #5e3370;
     outline: none;
 }
+
+h1 {
+    display: flex;
+    justify-content: flex-end;
+    color: lightskyblue;
+    font-size: 8px;
+}
