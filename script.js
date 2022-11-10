@@ -63,6 +63,15 @@ const quizData = [
         d: "Rim",
         correct: "c",
     },
+    {
+        question: "Boshu boru miyasi yoq?",
+        a: "Toshbaqa",
+        b: "Qiz",
+        c: "Shoshoncha",
+        d: "Ikkalasi ham to'g'ri",
+        correct: "c",
+    },
+    
 ];
 
 const quiz = document.getElementById("quiz");
